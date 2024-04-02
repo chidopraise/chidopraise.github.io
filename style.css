@@ -1,0 +1,97 @@
+body{
+	background:#e8f921;
+	background-image:url('image/canada.jpg');
+}
+
+.cal{
+	width:100%;
+	text-align:center;
+	
+}
+
+.cal_ext{
+	display:block;
+	background:#fff;
+	eight:500px;
+	border-radius:50px;
+	position:abstract;
+	top:0%;
+	left:35%;
+	border:#000 2px dotted;
+}
+
+.cal_int{
+	background:#e8f900;
+	background-image:url('image/canada_1.jpg');
+	height:450px;
+	position:relative;
+	top:5;
+	border-radius:50px;
+	margin-left:20px;
+	margin-right:20px;
+	border:#000 2px dotted;
+}
+
+.td_result{
+	background:#fff;
+	background-image:url('image/6.jpg');
+	height:40px;
+	margin:10;
+	position:relative;
+	color:red;
+	font-size:30px;
+	margin-bottom:0;
+	text-align:left;
+}
+
+.result{
+	background:#fff;
+	background-image:url('image/sky.gif');
+	height:70px;
+	margin:10;
+	position:relative;
+	color:#fff;
+	font-size:30px;
+	margin-top:0;
+}
+
+.first_row{
+	display:inline;
+	background:#000;
+	height:100px;
+	font-size:50px;
+	margin:20px;
+	border:20px;
+	border-radius:100%;
+	width:100px;
+	border:#fff 3px solid;
+}
+
+.first_row:hover{
+	background:#fff;
+	ackground:#e8f900;
+	font-size:40px;
+}
+
+a{
+	text-decoration:none;
+	color:#fff;
+}
+
+a:hover{
+	color:#000;
+}
+
+.sign{
+	display:block;
+	height:20px;
+	color:#AF2E8f;
+}
+
+
+.online{
+	display:block;
+	color:red;
+	font-size:60px;
+	height:60px;
+}
